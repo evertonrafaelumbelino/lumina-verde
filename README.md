@@ -215,3 +215,13 @@ void desligarLED() {
 * **Público-alvo:** Quatro estudantes entre 13 e 15 anos integrantes da equipe de robótica escolar.
 * **Período e Carga Horária:** Desenvolvido no primeiro semestre de 2026, totalizando aproximadamente 20 horas de atividades.
 * **Metodologia:** A professora atuou como mediadora e observadora, enquanto os estudantes lideraram o planejamento, montagem, programação, testes, calibração dos sensores e análise dos dados. Erros de programação e dificuldades de calibração foram abordados como oportunidades investigativas seguindo a lógica de testar, observar, identificar problemas, modificar e testar novamente.
+
+**Estudantes:**
+- [Everton Rafael Umbelino dos Santos](https://github.com/evertonrafaelumbelino)
+- Luiz Guilherme Ferreira Rosa
+- Davi Ribeiro de Brito
+- Ana Juilia Correira Silva
+- Helena Teodoro de Mello Sanizava
+
+**Professora orientadora:**
+- [Ana Crispim de Sousa Castro](https://github.com/AnaCrispim)
